@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" height="244" width="500" src="https://github.com/Coder-Star/Coder-Star/blob/master/static/img/WeChatOfficialAccount.jpg" />
+<img align="right" height="244" width="480" src="https://github.com/Coder-Star/Coder-Star/blob/master/static/img/WeChatOfficialAccount.jpg" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-Star&langs_count=10&layout=compact)](https://github.com/Coder-Star)
 
