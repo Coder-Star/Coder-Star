@@ -13,5 +13,3 @@
 <img align="right" height="260" width="480" src="https://raw.githubusercontent.com/Coder-Star/Coder-Star/main/static/img/WeChatOfficialAccount.jpg" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-Star&langs_count=10&layout=compact)](https://github.com/Coder-Star)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Coder-Star.Coder-Star)
